@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Chess0
+namespace CryptographyTest
 {
     public static class SBox
     {
